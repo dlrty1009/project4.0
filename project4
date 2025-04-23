@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Women in Skilled Trades</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      margin: 0;
+      padding: 0;
+      line-height: 1.6;
+      background-color: #f4f4f4;
+      color: #333;
+    }
+
+    header {
+      background-color: #004b6b;
+      color: #fff;
+      padding: 60px 20px;
+      text-align: center;
+    }
+
+    header h1 {
+      margin: 0;
+      font-size: 2.5em;
+    }
+
+    section {
+      padding: 40px 20px;
+      max-width: 900px;
+      margin: auto;
+      background-color: white;
+      margin-bottom: 20px;
+      border-radius: 8px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.05);
+    }
+
+    section h2 {
+      color: #004b6b;
+    }
+
+    footer {
+      background-color: #004b6b;
+      color: white;
+      text-align: center;
+      padding: 20px;
+    }
+
+    a {
+      color: #0077aa;
+    }
+
+    blockquote {
+      margin: 20px;
+      font-style: italic;
+      color: #666;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Breaking Barriers: Women in Skilled Trades</h1>
+    <p>Challenging stereotypes, closing the gap, and building a more inclusive future</p>
+  </header>
+
+  <section id="introduction">
+    <h2>Introduction</h2>
+    <p>As the workforce begins to shift, more women are entering traditionally male-dominated fields, particularly the skilled trades. Despite progress, disparities remain. Secretary Gina Raimondo highlights, “While there are about a million women working in construction now, they account for less than 11% of workers in the industry.” This underrepresentation is rooted in outdated stereotypes and unequal opportunities.</p>
+  </section>
+
+  <section id="discrimination">
+    <h2>Workplace Discrimination</h2>
+    <p>Women in trades often face discrimination from male peers who question their abilities. The National Tradeswomen's Association notes that women frequently experience “a lack of recognition and support from both their peers and employers,” which creates an unwelcoming environment. These microaggressions reinforce systemic barriers and prevent women from thriving.</p>
+  </section>
+
+  <section id="programs">
+    <h2>Programs Making a Difference</h2>
+    <p>Efforts are being made to improve representation and support for women in the trades. The U.S. Department of Commerce has worked to “harness the talents of women” by promoting education and mentorship. Similarly, the Michigan AFL-CIO’s Women in Skilled Trades program helps women overcome barriers and build successful careers.</p>
+  </section>
+
+  <section id="pay-gap">
+    <h2>The Gender Pay Gap</h2>
+    <p>Women in the skilled trades often earn less than men in equivalent positions. The National Women’s Law Center reports that women in construction and other male-dominated industries consistently receive lower wages, despite doing the same work. This wage gap perpetuates inequality and discourages participation.</p>
+  </section>
+
+  <section id="leadership">
+    <h2>Lack of Representation in Leadership</h2>
+    <p>There are few female role models in trade leadership roles. Without representation at the top, women entering the field may struggle to see long-term career potential. Organizations like the National Tradeswomen’s Association focus on mentorship and professional development to support women aiming for leadership.</p>
+  </section>
+
+  <section id="conclusion">
+    <h2>Conclusion</h2>
+    <p>The skilled trades have come a long way, but challenges like discrimination, unequal pay, and underrepresentation in leadership persist. By expanding education, breaking down stigma, and supporting inclusive programs, the industry can evolve into a more equitable space for all.</p>
+  </section>
+
+  <footer>
+    <h3>Works Cited</h3>
+    <p>
+      <a href="https://www.miaflcio.org/release-women-in-skilled-trades-program-continues-to-help-grow-diverse-workforce/" target="_blank">Michigan AFL-CIO</a><br/>
+      <a href="https://miaflcio.org/release-women-in-skilled-trades-program-continues-to-help-grow-diverse-workforce/" target="_blank">National Tradeswomen's Association</a><br/>
+      <a href="https://www.commerce.gov/news/blog/2024/07/harnessing-talents-women-growing-trades-workforce" target="_blank">U.S. Department of Commerce</a>
+    </p>
+    <p>&copy; 2025 Landin Elliott. All rights reserved.</p>
+  </footer>
+
+</body>
+</html>
